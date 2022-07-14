@@ -1,2 +1,2 @@
 # Tindog
-- Site de relacionamento parac cães.
+- Site de relacionamento para cães.
