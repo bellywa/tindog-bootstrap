@@ -1,1 +1,2 @@
-TinDog Starting Files
+# Tindog
+- Site de relacionamento parac cães.
